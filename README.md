@@ -1,6 +1,4 @@
-###Sticky Notes Web Application
-
-👋 This is a ###Personalized Sticky Notes Web Application, which can be used to create custom Notes or Lists.
+👋 This is a Personalized Sticky Notes Web Application, which can be used to create custom Notes or Lists.
 
 👀 The Custom List can be Created/Accessed by hitting : URL/CustomListName
 
