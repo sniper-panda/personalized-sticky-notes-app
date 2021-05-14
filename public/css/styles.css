@@ -12,7 +12,7 @@ body{
 }
 
 .social-icon {
-  margin: 20px 10px;
+  margin: 10px;
 }
 
 h1 {
@@ -87,6 +87,10 @@ button.listButton {
   align-items: center;
 }
 
+#copyright {
+  padding: 5px 10px 10px;
+}
+
 input[type="text"] {
   text-align: center;
   height: 60px;
@@ -122,4 +126,5 @@ footer {
 
 #contactDiv {
   background-color: #e4fbff;
+  padding-top: 50px;
 }
