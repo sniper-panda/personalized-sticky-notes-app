@@ -9,7 +9,7 @@
 ⚡ Steps : 
 1. Download the Source Files 
 2. Install Nodemon (To avoid Restarting Application on every change)
-3. Install MongoDb on Local PC, Adjust the location of Db pointed to by the Application
+3. Install MongoDb on Local PC, Adjust the location of Db pointed to by the Express.js Application
 4. Run : nodemon app.js
 5. No more Bullets for me, Only fun Sticky Notes!
 
